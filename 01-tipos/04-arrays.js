@@ -8,4 +8,6 @@ animales[2] = "Dragón";
 console.log(animales);
 
 animales[3] = "Perro";
-console.log(animales);
+console.log(animales[2]);
+console.log(typeof animales);
+console.log(animales.length);
